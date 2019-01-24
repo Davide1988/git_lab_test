@@ -1,4 +1,4 @@
 js
-const helloWorld = () => {
+const greet = () => {
   return "Hello World!";
 }
